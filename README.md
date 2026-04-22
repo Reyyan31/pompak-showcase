@@ -1,6 +1,6 @@
 # PomPak – National Financial Literacy Platform
 
-> **Production backend led at Seven Koncepts · Aug 2025 – Dec 2025**
+> **Production backend · Aug 2025 – Dec 2025**
 
 PomPak is a government-backed national financial literacy platform commissioned by the **State Bank of Pakistan** and co-sponsored by **JazzCash**. I led the backend engineering on a platform that scaled to over 1 million registered users, 750,000+ active students, and 45+ districts across Pakistan — one of the largest educational platforms in the country.
 
@@ -103,9 +103,7 @@ AWS Load Balancer
 
 ## About This Repo
 
-> The source code for PomPak is proprietary and owned by Seven Koncepts / Knowledge Platform. This repository documents my backend contribution, architectural decisions, and the engineering challenges solved — standard practice for professional portfolio showcases.
-
-**Employment certificate from Seven Koncepts available on request.**
+> The source code for PomPak is proprietary and owned by Knowledge Platform. This repository documents my backend contribution, architectural decisions, and the engineering challenges solved — standard practice for professional portfolio showcases.
 
 ---
 
