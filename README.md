@@ -4,7 +4,7 @@
 
 PomPak is a government-backed national financial literacy platform commissioned by the **State Bank of Pakistan** and co-sponsored by **JazzCash**. I led the backend engineering on a platform that scaled to over 1 million registered users, 750,000+ active students, and 45+ districts across Pakistan — one of the largest educational platforms in the country.
 
-🔗 **Live platform:** [nflpy.knowledgeplatform.com](https://nflpy.knowledgeplatform.com)
+🔗 **Live platform:** [nflpy.pk/elearning](https://nflpy.pk/elearning)
 
 ---
 
